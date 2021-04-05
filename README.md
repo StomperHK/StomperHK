@@ -1,4 +1,4 @@
-### Hello there 👋
+<h1 align='center'>Hello there, I'm Rafael Ribeiro</h1>
 
 - 🔭 I’m not currently working.
 - 🌱 I’m currently learning the essential WEB Development (HTML, CSS and JS).
@@ -6,4 +6,4 @@
 - 💬 Ask me about HTML, CSS and JS.
 - 📫 How to reach me:
   * Discord: StomperHK*#0479
-  * E-mail: cortadordeunha666@gmail.com 
+  * E-mail: cortadordeunha666@gmail.com
