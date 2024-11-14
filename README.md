@@ -3,7 +3,7 @@
 Portfolio: https://rafael-sites-e-seo.vercel.app/
 
 - I’m not currently working.
-- I’m currently learning Web Development (HTML, CSS, JS and React).
+- I’m currently improving my Web Development (Front-end Design System, React, NPM, Vite).
 - I’m looking for help with especially JavaScript.
 - Ask me about HTML, CSS and JS.
 - How to reach me:
